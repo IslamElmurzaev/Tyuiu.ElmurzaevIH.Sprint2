@@ -36,8 +36,8 @@ namespace Tyuiu.ElmurzaevIH.Sprint2.Task0.V15
             int y = 275;
             bool[] res = ds.GetCompareOperations(x, y);
 
-            Console.WriteLine("X = " + x);
-            Console.WriteLine("Y = " + y);
+            Console.WriteLine("Значение X = " + x);
+            Console.WriteLine("Значение Y = " + y);
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
